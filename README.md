@@ -1,14 +1,10 @@
-# Aqua button
+# bababa-button
 
-Aqua button [Click here to visit https://aquaminato.moe](https://aquaminato.moe)
-
-[![Build Status](https://travis-ci.org/zyzsdy/aqua-button.svg?branch=master)](https://travis-ci.org/zyzsdy/aqua-button)
+bababa-button [Click here to visit https://aquaminato.moe](https://aquaminato.moe)
 
 Related Links:
 
-* [Aqua Minato's Youtube channel](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)
-
-* [Aqua Minato's Twitter](https://twitter.com/minatoaqua)
+- [bababa's Bilibili channel](https://space.bilibili.com/73900569)
 
 ## Contributing
 
@@ -28,7 +24,7 @@ If you are modifying voice, delete the original file after modification.
 
 ### Participate in translation
 
-Please help us translate to English and Japanese!
+This is currently supporting only Chinese.
 
 The language files for the main program are in three .js files named the language name in [src/locales](src/locales).
 
@@ -54,15 +50,8 @@ To deploy a local development environment, first install the latest version of N
 
 ## LICENCE
 
-Program: MIT
-
-Audio: According to the [Hololive secondary creation licence](https://www.hololive.tv/terms).
-
-This project is a work of fans and is not related to the hololive official.
+This project is a work of fans.
 
 ## Special Thanks
 
-This project is supported by MeowSound Idols.
-
-This project is modified based on the [Meamea button](https://github.com/zyzsdy/meamea-button).
-
+This project is modified based on the [aqua button](hhttps://github.com/zyzsdy/aqua-button).
