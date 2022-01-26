@@ -1,6 +1,6 @@
 # bababa-button
 
-bababa-button [Click here to visit https://aquaminato.moe](https://aquaminato.moe)
+bababa-button [Click here to visit https://bababa.cii.moe](https://bababa.cii.moe)
 
 Related Links:
 
